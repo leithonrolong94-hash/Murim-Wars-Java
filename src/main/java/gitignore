@@ -1,0 +1,16 @@
+
+# Archivos de compilación de Java y Maven
+target/
+
+# Archivos temporales
+*.class
+*.log
+
+# Configuración personal del IDE
+nbproject/private/
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
